@@ -4,7 +4,7 @@
 // =====================================
 
 // Local project URL
-$base_url = '/SVU-Events-Guide-master/';
+$base_url = '/';
 
 // =====================================
 // TiDB Cloud Connection - PDO
