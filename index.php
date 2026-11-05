@@ -533,12 +533,12 @@ try {
                         <div class="developer-card">
                             <h4 class="dev-name"><?php echo $lang['developer_name_0']; ?></h4>
                             <div class="dev-info"><?php echo $lang['developer_id_0']; ?></div>
-                            <span class="dev-role"><?php echo $lang['developer_role_0']; ?></span>
+                            <span class="dev-role"><?php echo $lang['developer_role_1']; ?></span>
                         </div>
                          <div class="developer-card">
                             <h4 class="dev-name"><?php echo $lang['developer_name_1']; ?></h4>
                             <div class="dev-info"><?php echo $lang['developer_id_1']; ?></div>
-                            <span class="dev-role"><?php echo $lang['developer_role_1']; ?></span>
+                            <span class="dev-role"><?php echo $lang['developer_role_0']; ?></span>
                         </div>
                          <div class="developer-card">
                             <h4 class="dev-name"><?php echo $lang['developer_name_2']; ?></h4>
